@@ -1,0 +1,362 @@
+.navbar {
+  border-radius: 0 !important;
+  border-bottom: 1px solid #e9e9e9 !important;
+}
+#kunena .datepicker {
+  padding: 10px 20px !important;
+}
+#kunena .btn {
+  border-radius: 0px;
+}
+#kunena .dropdown-menu {
+  min-width: 250px !important;
+  border-radius: 0;
+}
+#kunena [class^="icon-"],
+#kunena [class*=" icon-"] {
+  width: inherit !important;
+}
+#kunena .well {
+  box-shadow: none;
+  background: #f2f4f7;
+  border-radius: 0;
+}
+#kunena.layout .form-control,
+#kunena.layout #params_language,
+#kunena.layout #params_timezone,
+#kunena.layout #params_editor {
+  display: block;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.428571429;
+  color: #555555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+  box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+  -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+  -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+  transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+  border-radius: 3px !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+  border-color: #f1f2f3;
+  font-size: 16px;
+  background-color: #fff !important;
+}
+#kunena.layout select#categorylist {
+  min-height: 200px;
+}
+#kunena .pagination>li:first-child>a,
+#kunena .pagination>li:first-child>span {
+  margin-left: 0;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+#kunena .pagination>li:last-child>a,
+#kunena .pagination>li:last-child>span {
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+#kunena.layout .inputbox#catid {
+  max-width: 250px;
+  border: 1px solid #ddd;
+  box-shadow: none;
+  border-radius: 0;
+  margin-bottom: 10px;
+}
+#kunena.layout table thead {
+  background-color: #f0f0f0 !important;
+  color: #555555;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-shadow: 1px 1px 0 #eee;
+  text-transform: uppercase;
+  text-align: left;
+}
+#kunena.layout table th,
+#kunena.layout table td {
+  border: 1px solid #e5e5e5;
+  padding: 10px 20px;
+}
+#kunena.layout .kheader {
+  font-size: 22px;
+  margin-bottom: 0;
+  line-height: 24px;
+  background: rgba(25,25,25,0.890196);
+  padding: 15px;
+}
+#kunena.layout .kheader a {
+  color: #fff;
+}
+#kunena.layout table .col-md-1 {
+  width: 10%;
+}
+#kunena.layout .kheader small {
+  background-color: rgba(255,255,255,0.2);
+  border-radius: 3px;
+  color: #fff;
+  display: inline-block;
+  padding: 0 5px;
+  font-size: 10px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+#kunena.layout .search .btn {
+  height: 35px;
+}
+#kunena.layout .search:hover input,
+#kunena.layout .search input:focus {
+  height: 35px !important;
+  font-weight: 400;
+}
+#kunena.layout .search input {
+  height: 35px !important;
+}
+#kunena.layout .search .btn {
+  line-height: 14px;
+}
+.modal-open .modal {
+  z-index: 99999;
+}
+#kunena.layout [class*="badger"]:after {
+  border: 0;
+  border-radius: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+  padding: 0 20px;
+  line-height: 42px;
+  width: 100%;
+}
+#kunena.layout [class*="badger"] {
+  position: relative;
+  border: none;
+  margin: 15px 0;
+  padding: 39px 19px 0 14px;
+  border-radius: 0;
+  min-height: 180px;
+  box-shadow: none;
+}
+#kunena.layout .badger-info {
+  border: 0;
+  border-bottom: 1px solid #e5e5e5;
+  border-radius: 0;
+  box-shadow: none;
+  margin-top: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 10px;
+  overflow: hidden;
+}
+#kunena.layout .message .info-date,
+.khistory .info-date {
+  background-color: #eeeeee;
+  border-radius: 3px;
+  color: #777777;
+  padding: 2px 10px;
+  float: right;
+}
+#kunena.layout .message .post-anchor a {
+  background-color: #ccc;
+  border-radius: 2px;
+  color: #fff;
+  display: inline-block;
+  line-height: 1;
+  padding: 3px 5px;
+}
+#kunena.layout .message .post-anchor a:hover {
+  background-color: rgba(25,25,25,0.890196);
+}
+#kunena.layout .message .post-anchor {
+  display: inline-block;
+  position: absolute;
+  top: 9px;
+  right: 15px;
+  z-index: 20;
+}
+#kunena.layout .message {
+  margin: inherit;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#kunena.layout .forum-title {
+  background-color: #eeeeee;
+  font-weight: 400;
+  padding: 10px 20px;
+  margin-bottom: 30px;
+}
+#kunena.layout h2 {
+  font-size: 20px;
+  padding-top: 0;
+  margin-top: 0;
+}
+#kunena.layout .forum-title .topic-icon {
+  background-color: #777777;
+  color: #fff;
+  display: inline-block;
+  padding: 10px 20px;
+  margin-right: 10px;
+  line-height: 1;
+  text-align: center;
+}
+#tabs_kunena_editor.nav-tabs>li>a {
+  display: inline-block !important;
+}
+#kunena.layout .forum-title i {
+  font-size: 18px;
+  padding-right: 0;
+}
+#kunena.layout .navbar ul.dropdown-menu .thumbnail i {
+  border-radius: 0;
+  margin: 0;
+}
+#kunena.layout .navbar ul.dropdown-menu #login-username,
+#kunena.layout .navbar ul.dropdown-menu #login-passwd {
+  box-sizing: border-box;
+  height: 36px;
+  line-height: 36px;
+  margin-bottom: 10px;
+}
+#kunena.layout input[type="text"],
+#kunena.layout input[type="email"],
+#kunena.layout input[type="password"] {
+  border-radius: 0;
+  box-shadow: none;
+  line-height: 36px;
+  margin-bottom: 10px;
+  margin-top: 5px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+#kunena.layout .thumbnail a {
+  display: inline-block !important;
+}
+.kattach ul.thumbnails {
+  padding-left: 0;
+}
+.profilebox {
+  background-color: #f6f6f6;
+  border-radius: 3px;
+  padding: 20px !important;
+}
+.profile-expand .btn {
+  padding: 0;
+  border-radius: 0px;
+  background: rgba(0,0,0,0);
+  border: none;
+}
+.profile-expand .btn:hover,
+.profile-expand .btn:focus,
+.profile-expand .btn:active {
+  background: rgba(0,0,0,0) !important;
+  box-shadow: none !important;
+  outline: none;
+}
+#kunena.layout #kchecktask {
+  margin-left: 10px;
+}
+#kunena.layout .search {
+  padding: 0;
+}
+#kunena.layout .profilebox li {
+  line-height: 2em;
+}
+#kunena.layout .topic-starter {
+  border-radius: 0;
+  border: 0;
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 0;
+}
+#kunena .table>tbody>tr>td,
+#kunena .table>tbody>tr>th,
+#kunena .table>tfoot>tr>td,
+#kunena .table>tfoot>tr>th,
+#kunena .table>thead>tr>td,
+#kunena .table>thead>tr>th {
+  vertical-align: middle;
+}
+.user-intro-columns {
+  border: 1px solid #e5e5e5;
+  padding: 10px;
+}
+#kunena.layout .fa-big,
+#kunena.layout .icon-big {
+  margin-top: 0;
+  font-size: 18px;
+}
+#kunena.layout td.kcol-cat-icon a,
+#kunena.layout td.kcol-topic-icon a,
+#kstats .kcol-cat-icon,
+#kwho .kcol-cat-icon {
+  background-color: rgba(25,25,25,0.890196);
+  border-radius: 3px;
+  color: #fff;
+  display: inline-block;
+  font-size: 16px;
+  height: 42px;
+  line-height: 42px;
+  width: 42px;
+}
+#kunena.layout .fa-big,
+#kunena.layout .icon-big {
+  margin-left: 0;
+}
+#kunena.layout td.kcol-topic-icon a .fa-2x {
+  font-size: 18px;
+}
+#kunena.layout .kmsg {
+  font-family: inherit;
+}
+#kunena.layout .nav .dropdown-menu a {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.42857143;
+  letter-spacing: 0;
+  padding: 10px 26px;
+}
+#kunena.layout #status-form label.btn a.btn,
+#kunena.layout #logout-form .btn-link {
+  padding: 0 0 0 5px;
+  font-weight: 300;
+  letter-spacing: initial;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.42857143;
+}
+#kunena.layout input[type=radio] + label {
+  line-height: inherit;
+}
+#kunena .btn-link {
+  font-weight: 300;
+  letter-spacing: 0;
+}
+li.dropdown.mobile-user {
+  padding: 3px 0px;
+}
+.login-frm-group .input-group {
+  width: 100%;
+}
+.other-list-link li a {
+  padding-left: 0 !important;
+  padding: 5px 0 !important;
+}
+.datepicker.datepicker-dropdown {
+  padding: 25px;
+}
+#kunena .input-group.date {
+  display: table !important;
+}
+#kunena .input-group.date span.input-group-addon {
+  background: none;
+  border: none;
+}
+#kunena .btn {
+  border-radius: 0px;
+  color: #222;
+}
