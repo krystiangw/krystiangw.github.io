@@ -154,3 +154,45 @@ a.standard-link:hover {
 .portfolio-text .lead {
   font-size: 16px;
 }
+
+.slider-title {
+  font-size: 32px !important;
+  z-index: 10;
+  font-weight: 500 !important;
+}
+
+.slider-subtitle p {
+  font-size: 20px !important;
+  z-index: 10;
+  line-height: initial !important;
+}
+
+@media screen and (max-width: 768px) {
+  .slider-title {
+    font-size: 26px !important;
+  }
+
+  .slider-subtitle p {
+    font-size: 18px !important;
+  }
+}
+
+@media screen and (max-width: 580px) {
+  .slider-title {
+    font-size: 22px !important;
+  }
+
+  .slider-subtitle p {
+    font-size: 14px !important;
+  }
+}
+
+@media screen and (max-width: 410px) {
+  .slider-title {
+    font-size: 20px !important;
+  }
+
+  .slider-subtitle p {
+    font-size: 10px !important;
+  }
+}
