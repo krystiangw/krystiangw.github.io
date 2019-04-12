@@ -118,3 +118,39 @@ svg {
   color: #333;
   border: 1px solid #bbb;
 }
+
+.mt-3 {
+  margin-top: 10px;
+}
+
+a.standard-link {
+  text-decoration: none;
+  color: inherit;
+  text-transform: none;
+  font-weight: 400;
+}
+
+a.standard-link:hover {
+  color: inherit;
+}
+
+.lamp-section {
+  padding:90px 0;
+  color:#ffffff;
+}
+
+.lamp-background {
+  background-image: linear-gradient(to bottom, #3333331f, #3333331f),url(/spark/images/lead/4.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment:inherit;
+  background-position: center;
+}
+
+.portfolio-text {
+  font-size: 16px;
+}
+
+.portfolio-text .lead {
+  font-size: 16px;
+}

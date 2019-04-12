@@ -1800,13 +1800,13 @@ p {
   height: auto;
   padding: 12px 40px;
   font-size: 10px;
-  color: #5b90b7;
+  color: #ae9574;
   border: 2px solid;
   background: transparent;
 }
 .sppb-btn-default {
-  border: 2px solid #5b90b7;
-  color: #5b90b7;
+  border: 2px solid #ae9574;
+  color: #ae9574;
 }
 .sppb-btn-default:hover,
 .sppb-btn-default:focus,
@@ -1815,7 +1815,7 @@ p {
 .open > .dropdown-toggle.sppb-btn-default {
   color: #fff;
   border-color: transparent;
-  background: #5b90b7;
+  background: #ae9574;
   text-decoration: none;
   outline: none;
   -webkit-box-shadow: none;
@@ -1825,7 +1825,7 @@ p {
 .btn:focus {
   color: #fff;
   border-color: transparent;
-  background: #5b90b7;
+  background: #ae9574;
   text-decoration: none;
   outline: none;
   -webkit-box-shadow: none;
@@ -1848,13 +1848,13 @@ p {
 }
 .btn.btn-color {
   color: #fff;
-  border: 2px solid #5b90b7;
-  background: #5b90b7;
+  border: 2px solid #ae9574;
+  background: #ae9574;
 }
 .btn.btn-color:hover,
 .btn.btn-color:focus {
   color: #fff;
-  border: 2px solid #5b90b7;
+  border: 2px solid #ae9574;
 }
 .btn.btn-border-dark {
   color: rgba(0,0,0,0.8);
@@ -2459,7 +2459,7 @@ ul.social-icons >li a {
 .sp-page-title .breadcrumb >li,
 .sp-page-title .breadcrumb >li+li:before,
 .sp-page-title .breadcrumb >li>a {
-  color: #5b90b7;
+  color: #ae9574;
 }
 .body-innerwrapper {
   overflow-x: hidden;
@@ -2485,7 +2485,7 @@ ul.social-icons >li a {
   margin-top: 30px;
 }
 .cta-bg {
-  background: #5b90b7;
+  background: #ae9574;
 }
 @media only screen and (max-width: 768px) {
   .sppb-addon-cta .sppb-row >div {
@@ -2659,7 +2659,7 @@ ul.social-icons >li a {
   display: inline-block;
   width: auto;
   margin-top: 15px;
-  border-color: #5b90b7;
+  border-color: #ae9574;
 }
 .com-users .reg-login-form-wrap .registration .form-group p,
 .com-users .reg-login-form-wrap .login .form-group p {
@@ -2676,7 +2676,7 @@ ul.social-icons >li a {
 .com-users .reg-login-form-wrap .registration .form-validate .form-group .btn.btn-primary {
   margin-top: 20px;
   margin-bottom: 22px;
-  border-color: #5b90b7;
+  border-color: #ae9574;
 }
 .com-users .reg-login-form-wrap .form-links {
   text-align: left;
@@ -2687,7 +2687,7 @@ ul.social-icons >li a {
   background-color: #fff;
 }
 .com-users.view-login .logout .btn.btn-primary {
-  background-color: #5b90b7;
+  background-color: #ae9574;
   border: none;
 }
 .com-users.view-login .logout .btn.btn-primary:hover,
@@ -2695,7 +2695,7 @@ ul.social-icons >li a {
   color: #fff;
 }
 .reset .form-validate .form-group button {
-  border-color: #5b90b7;
+  border-color: #ae9574;
 }
 .login img {
   display: inline-block;
@@ -3024,7 +3024,7 @@ article.item {
 }
 .helix-social-share .helix-social-share-icon ul li div a:hover,
 .helix-social-share .helix-social-share-icon ul li div a:focus {
-  background: #5b90b7;
+  background: #ae9574;
   color: #fff;
 }
 .pagenav [class^="icon-"]:before,
@@ -3058,7 +3058,7 @@ article.item {
   padding: 20px 0;
 }
 #sp-footer a {
-  color: #5b90b7;
+  color: #ae9574;
 }
 #sp-footer a:hover {
   color: #666;
@@ -3362,13 +3362,13 @@ td.acysubbuttons .button {
   letter-spacing: 2px;
   padding: 5px 15px;
   border: 1px solid rgba(210,217,224,0.5) !important;
-  background: #5b90b7;
+  background: #ae9574;
   color: #fff;
 }
 #sp_qc_submit:hover,
 .learn-more .sppb-btn:hover {
-  border: 1px solid #5b90b7 !important;
-  color: #5b90b7;
+  border: 1px solid #ae9574 !important;
+  color: #ae9574;
   background: rgba(0,0,0,0);
 }
 .tp-caption.small_light_white,
@@ -3384,7 +3384,7 @@ td.acysubbuttons .button {
 }
 .tp-caption.greenbox30,
 .greenbox30 {
-  background-color: #5b90b7;
+  background-color: #ae9574;
 }
 @media (max-width: 990px) {
   .fullscreenbanner,
@@ -3551,7 +3551,7 @@ td.acysubbuttons .button {
   color: #ffffff;
   line-height: 50px;
   text-align: center;
-  background-color: #5b90b7;
+  background-color: #ae9574;
   box-shadow: 0 1px 2px rgba(0,0,0,0.05);
   border-radius: 1px;
   outline: none;
@@ -3608,7 +3608,7 @@ td.acysubbuttons .button {
   padding: 15px;
   color: #fff;
   background: #444;
-  border-left: 6px solid #5b90b7;
+  border-left: 6px solid #ae9574;
 }
 .layout-blog .class2 .sp-module-content {
   padding: 10px;
@@ -3660,7 +3660,7 @@ td.acysubbuttons .button {
 .pager li>a,
 .pager li>span {
   border-radius: 0;
-  background: #5b90b7;
+  background: #ae9574;
   color: #fff;
 }
 .pager li>a:hover,
@@ -3698,7 +3698,7 @@ td.acysubbuttons .button {
   outline: none;
 }
 .sppb-addon-tab .sppb-nav-tabs li.active > a {
-  color: #5b90b7;
+  color: #ae9574;
 }
 .sppb-addon-tab .sppb-tab-pane {
   padding: 20px 0;
@@ -3746,7 +3746,7 @@ td.acysubbuttons .button {
   font-size: 18px;
   position: absolute;
   left: -40px;
-  color: #5b90b7;
+  color: #ae9574;
   top: -1px;
 }
 #sp-quickcontact-form textarea#message {
@@ -3805,7 +3805,7 @@ td.acysubbuttons .button {
 }
 .feature.colored .feature-icon,
 .feature.colored .feature-title {
-  color: #5b90b7;
+  color: #ae9574;
 }
 .feature.feature-1 {
   margin-top: 70px;
@@ -3912,7 +3912,7 @@ td.acysubbuttons .button {
   margin-top: 20px;
 }
 .pricing-table.active {
-  background: #5b90b7;
+  background: #ae9574;
 }
 .pricing-table.active a,
 .pricing-table.active span,

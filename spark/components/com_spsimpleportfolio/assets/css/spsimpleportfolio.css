@@ -18,8 +18,9 @@
 }
 .sp-simpleportfolio .sp-simpleportfolio-img {
   display: block;
-  max-width: 100%;
+  max-height: 700px;
   height: auto;
+  /*margin: auto;*/
 }
 .sp-simpleportfolio .sp-simpleportfolio-filter {
   text-align: center;

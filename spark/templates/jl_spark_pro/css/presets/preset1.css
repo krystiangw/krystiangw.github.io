@@ -1,5 +1,5 @@
 a {
-  color: #5b90b7;
+  color: #ae9574;
 }
 a:hover {
   color: #44769b;
@@ -19,11 +19,11 @@ a:hover {
   color: #999;
 }
 #offcanvas-toggler >i:hover {
-  color: #5b90b7;
+  color: #ae9574;
 }
 .btn-primary,
 .sppb-btn-primary {
-  background-color: #5b90b7;
+  background-color: #ae9574;
   color: #fff;
 }
 .btn-primary:hover,
@@ -36,7 +36,7 @@ a:hover {
   background-color: #44769b;
 }
 ul.social-icons >li a:hover {
-  color: #5b90b7;
+  color: #ae9574;
 }
 .layout-boxed .body-innerwrapper {
   background: #ffffff;
@@ -45,31 +45,31 @@ ul.social-icons >li a:hover {
   color: #999;
 }
 .sp-module ul >li >a:hover {
-  color: #5b90b7;
+  color: #ae9574;
 }
 .sp-module .latestnews >div >a {
   color: #777777;
 }
 .sp-module .latestnews >div >a:hover {
-  color: #5b90b7;
+  color: #ae9574;
 }
 .sp-module .tagscloud .tag-name:hover {
-  background: #5b90b7;
+  background: #ae9574;
 }
 .sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
 .sp-simpleportfolio .sp-simpleportfolio-filter > ul > li > a:hover {
   background: rgba(0,0,0,0);
-  border-bottom: 2px solid #5b90b7;
-  color: #5b90b7;
+  border-bottom: 2px solid #ae9574;
+  color: #ae9574;
 }
 .search .btn-toolbar button {
-  background: #5b90b7;
+  background: #ae9574;
 }
 .post-format {
-  background: #5b90b7;
+  background: #ae9574;
 }
 .voting-symbol span.star.active:before {
-  color: #5b90b7;
+  color: #ae9574;
 }
 .sp-rating span.star:hover:before,
 .sp-rating span.star:hover ~ span.star:before {
@@ -77,20 +77,20 @@ ul.social-icons >li a:hover {
 }
 .entry-link,
 .entry-quote {
-  background: #5b90b7;
+  background: #ae9574;
 }
 blockquote {
-  border-color: #5b90b7;
+  border-color: #ae9574;
 }
 .carousel-left:hover,
 .carousel-right:hover {
-  background: #5b90b7;
+  background: #ae9574;
 }
 #sp-footer {
   background: #fff;
 }
 .sp-comingsoon body {
-  background-color: #5b90b7;
+  background-color: #ae9574;
 }
 .pagination>li>a,
 .pagination>li>span {
@@ -104,15 +104,15 @@ blockquote {
 }
 .pagination>.active>a,
 .pagination>.active>span {
-  border-color: #5b90b7;
-  background-color: #5b90b7;
+  border-color: #ae9574;
+  background-color: #ae9574;
 }
 .pagination>.active>a:hover,
 .pagination>.active>a:focus,
 .pagination>.active>span:hover,
 .pagination>.active>span:focus {
-  border-color: #5b90b7;
-  background-color: #5b90b7;
+  border-color: #ae9574;
+  background-color: #ae9574;
 }
 select:focus,
 textarea:focus,
@@ -132,5 +132,5 @@ input[type="tel"]:focus,
 input[type="color"]:focus,
 .uneditable-input:focus,
 .form-control:focus {
-  border-color: #5b90b7 !important;
+  border-color: #ae9574 !important;
 }
