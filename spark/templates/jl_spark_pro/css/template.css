@@ -3808,8 +3808,11 @@ td.acysubbuttons .button {
   color: #ae9574;
 }
 .feature.feature-1 {
-  margin-top: 70px;
+  margin-top: 20px;
   text-align: center;
+}
+.feature.feature-margin-top {
+  margin-top: 50px;
 }
 .feature.feature-1 .feature-icon {
   margin-bottom: 8px;
