@@ -135,16 +135,29 @@ a.standard-link:hover {
 }
 
 .lamp-section {
-  padding:90px 0;
-  color:#ffffff;
+  padding: 90px 0;
+  color: #fff;
 }
 
 .lamp-background {
   background-image: linear-gradient(to bottom, #3333331f, #3333331f),url(/spark/images/lead/4.jpg);
   background-repeat: no-repeat;
-  background-size:cover;
-  background-attachment:inherit;
+  background-size: cover;
+  background-attachment: inherit;
   background-position: center;
+}
+
+.lamp-background-2 {
+  background-color: none;
+  background-image: linear-gradient(to bottom, #3333331f, #3333331f),url(/spark/images/lead/lamp2.jpg);
+}
+
+.lamp-background .layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 .portfolio-text {
@@ -156,7 +169,7 @@ a.standard-link:hover {
 }
 
 .slider-title {
-  font-size: 32px !important;
+  font-size: 36px !important;
   z-index: 10;
   font-weight: 500 !important;
 }
@@ -195,4 +208,12 @@ a.standard-link:hover {
   .slider-subtitle p {
     font-size: 10px !important;
   }
+}
+
+.text-white {
+  color: #fff;
+}
+
+.sp-simpleportfolio-details {
+
 }
