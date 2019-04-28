@@ -16,6 +16,9 @@
 .sp-simpleportfolio:after {
   clear: both;
 }
+.sp-simpleportfolio-img {
+  margin: auto;
+}
 .sp-simpleportfolio .sp-simpleportfolio-img {
   display: block;
   max-height: 700px;
@@ -313,3 +316,7 @@
   }
 }
 
+
+.sp-simpleportfolio-view-item {
+  margin-top: 20px;
+}
