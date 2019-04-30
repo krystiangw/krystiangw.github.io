@@ -2519,13 +2519,7 @@ ul.social-icons >li a {
 .sppb-addon-image-content.aligment-right .sppb-content-holder {
   padding: 120px 50px 120px 0;
 }
-@media (max-width: 768px) {
-  .sppb-addon-image-content .sppb-image-holder {
-    position: inherit;
-    width: 100% !important;
-    height: 300px;
-  }
-}
+
 .sp-module {
   margin-top: 50px;
 }
@@ -3812,9 +3806,17 @@ td.acysubbuttons .button {
   margin-top: 20px;
   text-align: center;
 }
-.feature.feature-margin-top {
-  margin-top: 50px;
+
+@media screen and (min-width: 768px) {
+  .feature.feature-margin-top {
+    margin-top: 50px;
+  }
+
+  .max-height-offer {
+    max-height: 200px;
+  }
 }
+
 .feature.feature-1 .feature-icon {
   margin-bottom: 8px;
   padding-top: 10px;
@@ -4528,5 +4530,20 @@ td.acysubbuttons .button {
   .sp-contact-info li {
     margin: 0 5px;
     font-size: 90%;
+  }
+}
+
+.sppb-image-holder.sppb-image-holder-background {
+  background-image: url(../../../images/lead/2.jpg);
+  height: 390px;
+  width: 40vw;
+  margin: auto;
+  max-width: 500px;
+}
+
+@media (max-width: 768px) {
+  .sppb-image-holder.sppb-image-holder-background {
+    position: inherit;
+    width: 80vw;
   }
 }

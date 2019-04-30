@@ -46,6 +46,12 @@
   color: #333;
   text-decoration: none;
   border-radius: 3px;
+  border-bottom: 2px solid #fff;
+}
+@media only screen and (max-width: 450px) {
+  .sp-simpleportfolio .sp-simpleportfolio-filter > ul > li {
+    display: contents;
+  }
 }
 .sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a {
   background: #333;
