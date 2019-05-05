@@ -11,11 +11,11 @@ jQuery(function($) {
 
 	$(window).load(function() {
 		var $sizer = $container.find('.shuffle__sizer');
-
 		$container.shuffle({
 			itemSelector: '.sp-simpleportfolio-item',
 			sequentialFadeDelay: 150,
-			sizer: $sizer
+			sizer: $sizer,
+			isCentered: true
 		});
 	});
 
@@ -34,7 +34,7 @@ jQuery(function($) {
 		$self.parent().addClass('active');
 
 		var $local = $self.closest('.sp-simpleportfolio').children('.sp-simpleportfolio-items');
-		
+
 		$local.shuffle( 'shuffle', $this.data('group') );
 	});
 
