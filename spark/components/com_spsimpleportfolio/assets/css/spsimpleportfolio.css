@@ -102,7 +102,6 @@
   z-index: 1;
 }
 .sp-simpleportfolio .sp-simpleportfolio-item .sp-simpleportfolio-overlay-wrapper .sp-simpleportfolio-img {
-  float: left;
   -webkit-transform: scale3d(1, 1, 1);
   transform: scale3d(1, 1, 1);
   -webkit-transition: all 400ms;
